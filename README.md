@@ -22,3 +22,11 @@
   <li>Support for scroll velocities</li>
   <li>Support for custom sound effects</li>
 </l>
+
+<h2>BUILDING</h2>
+<l>
+  <li>install haxe</li>
+  <li><code>haxe -main Main -neko RhythmShift.n</code> (for multiplatform? idrk what neko is, but it gets installed with haxe, so idk.)</li>
+  <li><code>haxe -main Main -cpp cpp/bin</code> (for Windows)</li>
+  <li>run program. simple as that</li>
+</l>
