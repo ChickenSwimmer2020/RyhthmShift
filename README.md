@@ -11,7 +11,7 @@
 <l>
   <li>Converting images</li>
   <li>Converting audio*</li>
-  <li>Full mod folder cretaion</li>
+  <li>Full mod folder creation</li>
   <li>Chart conversion</li>
 </l>
 <p>* = You must have ffmpeg installed.</p>
@@ -19,7 +19,13 @@
 <p>And I am currently working to implement:</p>
 <l>
   <li>Support for timing points</li>
+  <li>Support for tags, descriptions, and song creation locations</li>
+  <li>Quaver chart creation time compared to conversion time</li>
+  <li>SOMEHOW supporting <code>BPMDoesNotAffectScrollVelocity</code> from the quaver charts themselves</li>
+  <li>better conversion between <code>InitialScrollVelocity</code> from quaver to funkin.</li>
   <li>Support for scroll velocities</li>
+  <li>Support for stages changing based on difficulty if they did that in the chart itself. I don't want to make per-song stages though because that will bloat the total folder size.</li>
+  <li>better ui recreation. (UI <b>IS</b> SOMEWHAT MESSED UP, THE HEALTHBAR IS IN THE WRONG SPOT.)</li>
   <li>Support for custom sound effects</li>
 </l>
 
