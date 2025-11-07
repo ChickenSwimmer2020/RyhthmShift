@@ -1,5 +1,5 @@
 <h1 align="center">RHYTHMSHIFT</h1>
-<p>RhythmShift is a portable and single-file program that allows the conversion of Quaver song folders to <a href="https://ninja-muffin24.itch.io/funkin">Friday Night Funkin'</a> mods.<br>However, due to this program being in its infancy, it only supports <b>three</b> engines at the moment. those being:</p>
+<p>RhythmShift is a console-based, portable, and single-file program that allows the conversion of Quaver song folders to <a href="https://ninja-muffin24.itch.io/funkin">Friday Night Funkin'</a> mods.<br>However, due to this program being in its infancy, it only supports <b>three</b> engines at the moment. those being:</p>
 <l>
   <li><a href="https://codename-engine.com">Codename Engine</a></li>
   <li><a href="https://gamebanana.com/mods/309789">Psych Engine</a> {TBI}</li>
